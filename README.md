@@ -58,7 +58,7 @@ I used the additional library in this project:
 
 The car was able to drive 14 miles without incidents:
 
-![14miles](https://github.com/mkoehnke/CarND-Path-Planning-Project/distance_14miles.png)
+![14miles](https://github.com/verichev/CarND-Path-Planning-Project/doc/distance_14miles.png)
 
 
 #### The car drives according to the speed limit.
